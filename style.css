@@ -1,0 +1,74 @@
+#body
+{
+    background: beige;
+}
+#header
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    border-style: double;
+    border-color: black;
+    margin: 20px;
+    background: lightblue;
+    height: 150px;
+    line-height: 3.2;
+}
+#nav
+{
+    text-align: center;
+    font-size: 20px;
+    border-style: double;
+    border-color: black;
+    margin: 20px;
+    background: lightblue;
+    height: 100px;
+    line-height: 3.2;
+}
+#section
+{
+    border-style: double;
+    background: lightblue;
+    margin: 20px;
+    width: 50%;
+}
+#article
+{
+    border-style: solid;
+    margin: 10px;
+    text-align: center;
+}
+#h1, h2, h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin: 5px;
+    padding:10px;
+    text-align: left;
+}
+#aside
+{
+    float: right;
+    text-align: center;
+    border-style: solid;
+    background: lightblue;
+    margin-right: 20px;
+    width: 45%;
+    clear: right;
+}
+#list
+{
+    line-height: 1.5;
+}
+#list2
+{
+    line-height: 1.5;
+}
+#p
+{
+    border-style: dashed;
+    font-size: 200%;
+    padding: 5px;
+    margin: 5px;
+}
